@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="min_size">0dp</dimen>
+    <dimen name="arrow_size">0.3</dimen>
+    <dimen name="space_size">0.07</dimen>
+</resources>

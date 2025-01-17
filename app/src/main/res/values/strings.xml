@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">技能祭用【矢印ゲーム】</string>
+    <string name="left_label">左</string>
+    <string name="top_label">上</string>
+    <string name="down_label">下</string>
+    <string name="right_label">右</string>
+
+</resources>
